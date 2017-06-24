@@ -1,1 +1,6 @@
-tetstststst longgagagananananan
+Data needed:
+
+date day for July every year
+county name == Harris County
+Violation == speeding
+stop outcome
